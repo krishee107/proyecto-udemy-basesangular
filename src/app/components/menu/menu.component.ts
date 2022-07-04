@@ -18,6 +18,10 @@ export class MenuComponent implements OnInit {
   {
     nombre: 'Contact',
     path: '/contact'
+  },
+  {
+    nombre: 'Posts',
+    path: '/posts'
   }
 
 ]
